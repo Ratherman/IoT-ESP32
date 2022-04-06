@@ -1,14 +1,15 @@
 # IoT-ESP32
 Use ESP32 to build an air quality detect system.
-<img src="https://github.com/Ratherman/IoT-ESP32/blob/main/DEMO.jpeg" height=200>
+<img src="https://github.com/Ratherman/IoT-ESP32/blob/main/Pic/Demo.jpeg" width=30%>
 
 # ESP32 Spec
-<img src="https://github.com/Ratherman/IoT-ESP32/blob/main/ESP32-SPEC.jpeg" height=200>
+<img src="https://github.com/Ratherman/IoT-ESP32/blob/main/Pic/ESP32-SPEC.jpeg" width=400>
 
 # Environment
 * [Micropython v1.14](https://docs.micropython.org/en/v1.14/library/index.html)
     * Download binary [here](https://micropython.org/download/esp32/)
-    * ![micropython binary](https://github.com/Ratherman/IoT-ESP32/blob/main/https://github.com/Ratherman/IoT-ESP32/blob/main/Micropython_binary.jpg)
+    * <img src="https://github.com/Ratherman/IoT-ESP32/blob/main/Pic/Micropython_binary.jpg" width=400>
+
 
 * [Thonny IDE](https://thonny.org/)
 * [CP210x driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
