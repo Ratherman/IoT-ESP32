@@ -1,6 +1,6 @@
 # IoT-ESP32
 Use ESP32 to build an air quality detect system.
-<img src="https://github.com/Ratherman/IoT-ESP32/blob/main/Pic/Demo.jpeg" width=400>
+<img src="https://github.com/Ratherman/IoT-ESP32/blob/main/Pic/Demo.jpg" width=400>
 
 # ESP32 Spec
 <img src="https://github.com/Ratherman/IoT-ESP32/blob/main/Pic/ESP32-SPEC.jpeg" width=400>
