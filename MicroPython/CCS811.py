@@ -85,7 +85,7 @@ class CCS811(object):
         envregister[2] = t_comb >> 8
         envregister[3] = t_comb & 0xFF
         self.i2c.writeto_mem(self.addr,0x05,envregister)
-        #return envregister
+        return envregister
 
 # def main():
 #     from machine import Pin, SoftI2C
