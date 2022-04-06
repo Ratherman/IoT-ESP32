@@ -1,7 +1,6 @@
 from machine import Pin, ADC
 from utime import sleep, sleep_us
-measurePIN = ADC(Pin(32))
-#measurePIN = Pin(32)
+measurePIN = ADC(Pin(39))
 measurePIN.atten(ADC.ATTN_11DB) #range 0-4095 -> 3,3 V
 LedPower = Pin(16, Pin.OUT)
 samplingTime = 280 #original 280
